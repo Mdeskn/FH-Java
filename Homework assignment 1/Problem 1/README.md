@@ -6,10 +6,17 @@
 ## Project Overview
 
 This Java application calculates the volume of the Earth and the Sun as spheres, and determines the ratio of their volumes.
+The formula for the volume of a sphere is:
 
-The formula used for the volume of a sphere is:  
-\[ V = \frac{4}{3} \times \pi \times r^3 \]  
-Where \( r \) is the radius of the sphere.
+```
+V = (4 / 3) * π * r³
+```
+
+Where:
+- `V` is the volume,
+- `π` is the constant Pi (approximately 3.14159),
+- `r` is the radius of the sphere.
+
 
 ## Instructions for Running the Project
 
