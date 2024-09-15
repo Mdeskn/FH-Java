@@ -3,7 +3,7 @@ Author: Maede Eskandari Borujerdi
 Matriculation Number: 7221435  
 
 ## Problem Description
-The goal of this program is simple: analyze a given text and count how many vowels, consonants, and spaces it contains. You're provided with a chunk of text, and your job is to break it down and count each of these components.
+The goal of this program is simple: analyze a given text and count how many vowels, consonants, and spaces it contains.
 
 ### What We’re Counting
 - **Vowels**: The letters A, E, I, O, U (both uppercase and lowercase).
