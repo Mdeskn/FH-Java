@@ -42,21 +42,33 @@ The task was divided into several steps:
 
 ---
 
-## How to Run the Program
+## Instructions for Running the Project
 
-1. **Clone the Repository:**  
-   Clone the project from this GitHub repository using the following command:
-   ```bash
-   git clone https://github.com/Mdeskn/FH-Java.git
-   ```
+### Step 1: Clone or Download the Project from GitHub
+- Visit the GitHub repository containing the project.
+- Download the project by clicking the **Code** button and selecting **Download ZIP**, or clone the repository using the following command:
+  
+  ```bash
+  git clone https://github.com/Mdeskn/FH-Java.git
+  ```
+  
+- Extract the ZIP file to a folder on your local machine, or find the cloned project folder.
+
+### Step 2: Import the Project into Eclipse
+1. Open **Eclipse IDE**.
+2. Go to **File > Import**.
+3. Select **General > Existing Projects into Workspace** and click **Next**.
+4. Click **Browse** and navigate to the folder where you saved or extracted the project, e.g.:
    
-2. **Open the Project in Eclipse:**  
-   Import the project into Eclipse as a Java project.
+   ```
+   C:\Users\<YourUsername>\FH-Java\Homework assignment 3\Homework3
+   ```
 
-3. **Run the Main Class:**  
-   The entry point of the program is in the `Main.java` file. Right-click on `Main.java` and select **Run As > Java Application**.
+5. Select the project and click **Finish**.
 
-4. **View the Output:**  
-   The console will display details about each vehicle, including its model, year, manufacturer, and engine type.
+### Step 3: Run the Program in Eclipse
+1. In Eclipse, locate the imported project in the **Package Explorer**.
+2. Right-click the project folder and choose **Run As > Java Application**.
+3. The console will display the output, showing the details of different vehicle types along with their characteristics, such as the manufacturer and engine type.
 
 ---
